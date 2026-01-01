@@ -27,4 +27,4 @@ Unlike standard versions, this game prevents hesitation.
 * JavaScript (jQuery)
 
 ## 🚀 How to Run
-Simply open `index.html` in your web browser.
+Simply open https://ekomiwatt.github.io/simon-game/ in your web browser.
