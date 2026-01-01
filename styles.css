@@ -1,13 +1,13 @@
 body {
   text-align: center;
-  background-color: #011F3F;
+  background-color: #0a3058;
 }
 
 #level-title {
   font-family: 'Press Start 2P', cursive;
   font-size: 3rem;
   margin:  5%;
-  color: #FEF2BF;
+  color: #a2a286;
   margin-top: 30px;
   margin-bottom: 20px;
 }
@@ -56,5 +56,5 @@ body {
 h2 {
   font-family: 'Press Start 2P', cursive;
   font-size: 2rem;
-  color: #FEF2BF;
+  color: #a2a286;;
 }
